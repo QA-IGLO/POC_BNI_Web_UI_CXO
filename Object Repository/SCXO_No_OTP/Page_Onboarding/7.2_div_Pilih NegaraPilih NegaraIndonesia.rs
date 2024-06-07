@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>7.2_div_Pilih NegaraPilih NegaraIndonesia</name>
+   <tag></tag>
+   <elementGuidId>d95820cb-dfa0-4213-9dfe-5588f8d2edb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara Pilih Kecamatan*Pilih KecamatanData Kecamatan tidak tersediaPilih KelurahanPilih KelurahanData Kelurahan tidak tersedia' or . = 'Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara Pilih Kecamatan*Pilih KecamatanData Kecamatan tidak tersediaPilih KelurahanPilih KelurahanData Kelurahan tidak tersedia') and @name = 'onboardDto.countryId']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-form-control.css-1co3er0 > div.css-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan Selata&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edfec963-15e0-4ef9-8ac2-05850fdafe8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-0</value>
+      <webElementGuid>bf0685fd-0e2e-407d-bc83-4ec5496f95b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara Pilih Kecamatan*Pilih KecamatanData Kecamatan tidak tersediaPilih KelurahanPilih KelurahanData Kelurahan tidak tersedia</value>
+      <webElementGuid>6cab85ae-8251-4246-a021-4c52572a30e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]</value>
+      <webElementGuid>eab24fba-b897-44dc-8bf6-b12f29e7132f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.countryId</value>
+      <webElementGuid>09312004-6730-4644-9f3c-4fa379493acb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>159de01b-9de0-4f90-bcd5-ec9b3c336469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[4]</value>
+      <webElementGuid>4a8e10f9-3656-4269-b6a9-c754bb007a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[66]</value>
+      <webElementGuid>bcd95760-b4d2-41e5-92cd-414b3223f87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>3b742220-d365-4e70-a4c8-9896a5dfce72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara Pilih Kecamatan*Pilih KecamatanData Kecamatan tidak tersediaPilih KelurahanPilih KelurahanData Kelurahan tidak tersedia' or . = 'Pilih Negara*Pilih NegaraIndonesiaPilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara Pilih Kecamatan*Pilih KecamatanData Kecamatan tidak tersediaPilih KelurahanPilih KelurahanData Kelurahan tidak tersedia')]</value>
+      <webElementGuid>177aed88-8fff-455b-b044-cee03b45b8fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

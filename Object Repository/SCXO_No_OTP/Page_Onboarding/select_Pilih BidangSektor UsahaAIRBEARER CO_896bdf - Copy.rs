@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih BidangSektor UsahaAIRBEARER CO_896bdf - Copy</name>
+   <tag></tag>
+   <elementGuidId>316b3e08-1e69-4672-82c3-01b99033838f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div[3]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9b4226ea-d512-40a8-9069-59615d843d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:rd:</value>
+      <webElementGuid>871a5893-0c32-4985-9e72-5a43423b28a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>359428d3-d68b-4f22-a29c-769fe0cee0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA</value>
+      <webElementGuid>809576ac-5487-42da-b403-c8eef5e41637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:rd:&quot;]</value>
+      <webElementGuid>c74f1a98-2cbd-4cad-aef1-8c48ab6258d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='field-:rd:'])[2]</value>
+      <webElementGuid>9b713ee2-cc10-4c2d-8445-53d80c8389c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div[3]/div/select</value>
+      <webElementGuid>cc09bf0c-1d00-41d8-8737-c0230dfc66ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>f7ec8831-ee90-48c7-bc2c-237f1ca59c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tempat Usaha Berdiri'])[1]/preceding::select[1]</value>
+      <webElementGuid>00d70299-82b5-4981-ad21-8e84454539e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>323c8a34-ee32-4134-842c-e49f88c9340c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:rd:' and (text() = 'Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA' or . = 'Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA')]</value>
+      <webElementGuid>500f1a53-e204-48ca-a673-6a7e3ea80b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

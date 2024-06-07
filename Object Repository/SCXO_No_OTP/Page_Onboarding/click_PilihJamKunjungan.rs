@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_PilihJamKunjungan</name>
+   <tag></tag>
+   <elementGuidId>711151b5-e6f8-4fe8-886d-6ebba39cd038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[5]/div[1]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'onboardDto.visitTime' and @class = 'chakra-input w-full pl-14 pr-12 bg-white border border-[#D0D5DD] hover:border-[#FF6B00] py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-kxju8z']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>08e35e05-d067-4bc3-bbcc-90f1187bc5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.visitTime</value>
+      <webElementGuid>8c0db17e-4aad-4e28-8b4b-844f5c41b8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input w-full pl-14 pr-12 bg-white border border-[#D0D5DD] hover:border-[#FF6B00] py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-kxju8z</value>
+      <webElementGuid>53809e76-56b1-4a44-aa07-17f5bbf37ef8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

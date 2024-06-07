@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User Operational RegistrationBuat Busin_66f84a</name>
+   <tag></tag>
+   <elementGuidId>ae6f7e49-156e-413e-beb5-b6faf9f5de8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1l4w6pd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form div >> internal:has-text=&quot;User Operational RegistrationBuat Business IDBusiness IDKombinasi Business ID3 a&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b36a2a9b-4ac8-441a-bff3-3ef0420b9c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1l4w6pd</value>
+      <webElementGuid>9bdb11d0-62b9-4599-a4a8-faf3c7a7e271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Operational RegistrationBuat Business IDBusiness IDKombinasi Business ID3 alfabet3 digit angkaMengandung UnderscoreUser User IDNama UserNomor HandphoneAlamat EmailSelanjutnya</value>
+      <webElementGuid>caf5c292-23b7-422c-a490-f23e07c31bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]</value>
+      <webElementGuid>06b023c6-befe-40a9-bad3-513964fe538b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      <webElementGuid>99054b65-643c-4746-8347-d445a5f04e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[1]</value>
+      <webElementGuid>caf39532-61a5-40ec-b0d1-4acdfea1fee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[61]</value>
+      <webElementGuid>5dbb6d33-a68e-4cfb-b2ff-fc9af02dc335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>fd62bafc-fd26-4ba3-b50f-afea886f4bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'User Operational RegistrationBuat Business IDBusiness IDKombinasi Business ID3 alfabet3 digit angkaMengandung UnderscoreUser User IDNama UserNomor HandphoneAlamat EmailSelanjutnya' or . = 'User Operational RegistrationBuat Business IDBusiness IDKombinasi Business ID3 alfabet3 digit angkaMengandung UnderscoreUser User IDNama UserNomor HandphoneAlamat EmailSelanjutnya')]</value>
+      <webElementGuid>3849c14c-9113-4ac0-9a58-9f3da3a8e2cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

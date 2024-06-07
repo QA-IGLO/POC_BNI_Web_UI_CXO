@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>13.3_span_Syarat dan Ketentuan_chakra-checkbox___de1f61</name>
+   <tag></tag>
+   <elementGuidId>df331516-19b3-4c30-819c-ed2f8f3cbbf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.chakra-checkbox__control.css-1bos7u8</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'chakra-checkbox__control css-1bos7u8' and @aria-hidden = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[6]/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Syarat dan Ketentuan e-Form$/ >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f9aa22d-51a2-4042-8a25-84f139ab58ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox__control css-1bos7u8</value>
+      <webElementGuid>8868b1ea-520a-4c9b-a02c-ca1c31ffcf77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>abfbda91-d918-408d-990e-bf934d295b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1vuxxtd&quot;]/div[@class=&quot;css-suumc6&quot;]/div[@class=&quot;css-1rt72mu&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-bqkspo&quot;]/label[@class=&quot;chakra-checkbox css-1577qb8&quot;]/span[@class=&quot;chakra-checkbox__control css-1bos7u8&quot;]</value>
+      <webElementGuid>57458410-ecd0-4d17-8283-1a617797b486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[6]/div/div/div/label/span</value>
+      <webElementGuid>1f161dfb-cbac-4cf4-a7c7-b7edfecd3743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a4822478-0ee8-4ad4-81de-b0ddce7599dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

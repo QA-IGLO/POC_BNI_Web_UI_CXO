@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Syarat dan Ketentuan e-Form</name>
+   <tag></tag>
+   <elementGuidId>8040741e-190d-4135-bd51-6fa19e4eeee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-bqkspo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Syarat dan Ketentuan e-Form$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>340d833f-98cd-45c6-9c5b-88dc702e890b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-bqkspo</value>
+      <webElementGuid>23d90a51-82f1-436e-8b85-3e64fcba54c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan Ketentuan e-Form</value>
+      <webElementGuid>a36d8922-ad0d-48ce-98b6-e8dafbecb60d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-1sxvulb&quot;]/div[@class=&quot;css-suumc6&quot;]/div[@class=&quot;css-unx0rc&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-bqkspo&quot;]</value>
+      <webElementGuid>6850692d-477d-4d13-8383-bf46c5aa8e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[6]/div/div/div</value>
+      <webElementGuid>3fe87882-4c57-4fc5-a258-06c0fc12b4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/following::div[12]</value>
+      <webElementGuid>9237145a-02ca-4c0c-a04e-20bc88710a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pernyataan &amp; Syarat Ketentuan'])[1]/following::div[20]</value>
+      <webElementGuid>c8daeee2-8236-4bfa-8bcb-c2e6be9deb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai &amp; Kirim'])[1]/preceding::div[3]</value>
+      <webElementGuid>24a42912-504f-4996-a85a-895d21da15a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BNI Office'])[1]/preceding::div[4]</value>
+      <webElementGuid>08fbc405-13d0-4776-9414-d1c353c55929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div</value>
+      <webElementGuid>f62f241e-5c96-4fac-96e4-2dc0d74aadbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Syarat dan Ketentuan e-Form' or . = 'Syarat dan Ketentuan e-Form')]</value>
+      <webElementGuid>6c40a2bc-a1be-485e-8e06-cab54b59a9e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

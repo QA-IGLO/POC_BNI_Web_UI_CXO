@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_Select_TC055_PilihKelolaDanaKosog</name>
+   <tag></tag>
+   <elementGuidId>81c9f1a2-675f-4b85-8617-fd657a0d9922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[9]/div/div[1]/select/option[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'onboardDto.annualFundMgmt' and @id = 'onboardDto.annualFundMgmt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>01085ccc-bdff-4dbb-a6f8-1ea06705f869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.annualFundMgmt</value>
+      <webElementGuid>6037d2ce-037d-4149-910b-8cfccce12071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.annualFundMgmt</value>
+      <webElementGuid>069ccc14-b3e2-46a4-a6cb-fc0b8bdf19ca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

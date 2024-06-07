@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.10_input_penghasilPerthn</name>
+   <tag></tag>
+   <elementGuidId>1b226f3b-9fe1-4317-b64a-60c664c9dcea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'onboardDto.annualIncome' and @placeholder = 'Masukkan Penghasilan Pertahun' and @type = 'number' and @id = 'onboardDto.annualIncome']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[10]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>571c523a-9e37-4c19-b798-d475df940858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.annualIncome</value>
+      <webElementGuid>9b117c1c-43f8-4daf-b93b-ec526d2387aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Penghasilan Pertahun</value>
+      <webElementGuid>9bd61fa3-4965-4d0e-bbbc-5dc53964a529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>66fb3bc4-37a4-4d60-ab5c-462373801ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.annualIncome</value>
+      <webElementGuid>e878182b-d097-43d4-8b18-9e5ad8d9f423</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih KabupatenKotaWIL. KOTA JAKARTA_309ed4_1</name>
+   <tag></tag>
+   <elementGuidId>a8796929-2cbc-4d92-bcb9-2abd19380bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='field-:r11:'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>87293536-4938-48be-a763-c48f585e09e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:r11:</value>
+      <webElementGuid>0bac368d-dbae-4b36-bc42-d7c2418ed379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>fbd66727-c273-4e2f-9d8a-8f1698f247d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT</value>
+      <webElementGuid>2983fa67-0cc3-4600-9e01-07db5fe8f536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:r11:&quot;]</value>
+      <webElementGuid>a179a495-6408-4015-83c0-17a111b206f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='field-:r11:'])[2]</value>
+      <webElementGuid>76ecdfa2-01ae-4b79-a681-4ab868268001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div/select</value>
+      <webElementGuid>2adc36d5-5bf5-417f-9fc3-5bff4b0e6929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>252b5114-336a-40ac-ab3b-8944157381c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>3ccedc9c-0a22-45cd-b68e-50d412ff03c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>4fff654b-a47f-4844-a0f2-9a0d53cc64e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:r11:' and (text() = 'Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT' or . = 'Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT')]</value>
+      <webElementGuid>60d34722-a522-4544-8cde-198741c83352</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

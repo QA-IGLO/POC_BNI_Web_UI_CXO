@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tanggal Pengesahan_onboardPermitsDto._add01d</name>
+   <tag></tag>
+   <elementGuidId>565071ad-2860-41cd-b6c3-b5aa6690bf6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='onboardPermitsDto.ratifDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;onboardPermitsDto.ratifDate&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tanggal pengesahan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>23df4866-3e2d-439f-9496-8fc69be43718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e80e8054-7a4c-4d3b-8ad8-e7a6b031b6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardPermitsDto.ratifDate</value>
+      <webElementGuid>a8ab6719-e137-4cf5-be2d-cdf9b7209b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tanggal pengesahan</value>
+      <webElementGuid>83a5d179-1070-4cf7-aae6-49a09b59ca27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] px-4 py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand pl-10</value>
+      <webElementGuid>7984cef4-584f-43cf-8169-760d3742f301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-14a35dk&quot;]/div[@class=&quot;chakra-form-control css-zn965q&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-datepicker-wrapper w-full&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] px-4 py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand pl-10&quot;]</value>
+      <webElementGuid>7e911011-7caa-4af9-b38e-639434256577</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='onboardPermitsDto.ratifDate']</value>
+      <webElementGuid>a94cd0c9-64df-4626-8b1b-e9162040f770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[5]/div/div/div/input</value>
+      <webElementGuid>62dcdc25-bb3e-4948-9b9b-eede3904d297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/input</value>
+      <webElementGuid>70fbe89a-5d65-4dbd-88f4-638a4d93168c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'onboardPermitsDto.ratifDate' and @placeholder = 'Tanggal pengesahan']</value>
+      <webElementGuid>2b9b288a-aac5-4c50-a749-525f6eb7f7dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

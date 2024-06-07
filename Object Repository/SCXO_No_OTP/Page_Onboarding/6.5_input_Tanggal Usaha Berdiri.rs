@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.5_input_Tanggal Usaha Berdiri</name>
+   <tag></tag>
+   <elementGuidId>b3e06c8d-4976-4b53-918d-601e3d892e42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'text' and @name = 'onboardDto.businessEstDate' and @placeholder = 'Masukkan Tanggal Usaha Berdiri']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;onboardDto.businessEstDate&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[5]/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan Tanggal Usaha Berdiri&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ea485813-fdc2-460a-b623-9520e0b5d1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b53eedc5-ed34-4b0b-92a1-c6026b8abb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.businessEstDate</value>
+      <webElementGuid>ed1b8659-94c4-42d3-be94-4a7c847381f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Tanggal Usaha Berdiri</value>
+      <webElementGuid>761751c7-ec80-40f9-94b4-cc28fb48c589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='onboardDto.businessEstDate']</value>
+      <webElementGuid>4cc10b01-28bb-4d4e-89f8-b1cd5c3f9419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[5]/div/div/div/input</value>
+      <webElementGuid>8c613624-95ec-4687-a6dd-0614de0262a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/input</value>
+      <webElementGuid>d6551b0f-c5be-4bb9-9050-080e9db7331f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'onboardDto.businessEstDate' and @placeholder = 'Masukkan Tanggal Usaha Berdiri']</value>
+      <webElementGuid>e2d7e172-fad3-4871-a958-141784123c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

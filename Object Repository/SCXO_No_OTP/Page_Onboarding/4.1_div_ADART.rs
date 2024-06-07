@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4.1_div_ADART</name>
+   <tag></tag>
+   <elementGuidId>0f210aae-ae8a-4d9d-a2eb-7242cb846938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div/div/div/label[1]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'AD/ART' or . = 'AD/ART')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AD/ART&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05348258-0606-4581-9d05-5f257e619264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[99px] bg-white font-bold text-black ring-1 ring-[#BFC9D9] peer-checked:bg-[#FEF6EE] transition-all peer-checked:text-[#FF6B00] peer-checked:ring-[#FF6B00] peer-checked:ring-offset-2 py-1 px-6</value>
+      <webElementGuid>309a2dfd-f5f3-4352-b4c1-30b7d19eaa83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AD/ART</value>
+      <webElementGuid>9bc8052d-9fa5-4249-9cf3-564339d705c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1gtf5cl&quot;]/div[@class=&quot;css-1j1i25b&quot;]/div[1]/div[@class=&quot;css-16bqc1g&quot;]/label[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;rounded-[99px] bg-white font-bold text-black ring-1 ring-[#BFC9D9] peer-checked:bg-[#FEF6EE] transition-all peer-checked:text-[#FF6B00] peer-checked:ring-[#FF6B00] peer-checked:ring-offset-2 py-1 px-6&quot;]</value>
+      <webElementGuid>1cde6b6b-6409-4e2a-8b74-ac43da1d2e16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div/div/label/div</value>
+      <webElementGuid>c5a881fc-0102-4038-9b67-f64acb4aeef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[7]</value>
+      <webElementGuid>e4ae7551-79fa-43a6-b298-f66f7120c8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[75]</value>
+      <webElementGuid>a45bf9b6-f92e-4c25-a89f-53507a54b3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pihak Yang Diberikan Kuasa'])[1]/preceding::div[1]</value>
+      <webElementGuid>aefced47-db21-4bbc-b68c-3a1e68c91dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AD/ART']/parent::*</value>
+      <webElementGuid>8e2b24ed-f679-43d1-8338-b98d0003c6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>0e605874-1075-439a-9bd2-9cdfc19713ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AD/ART' or . = 'AD/ART')]</value>
+      <webElementGuid>5bb4ebc1-7a2e-4ca4-af36-9a3ebd644f34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

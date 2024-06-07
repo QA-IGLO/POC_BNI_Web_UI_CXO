@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Jl. Pembangunan Raya No.78 Blok AJ_ccb805</name>
+   <tag></tag>
+   <elementGuidId>10789b69-7bf2-4fb6-abbf-7f5603725db7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='field-:rg:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan alamat lengkap&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>454d5587-e2cf-4130-aa57-e5a7678648be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat lengkap</value>
+      <webElementGuid>1300b827-07cb-4548-bb3b-6bf19d371aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:rg:</value>
+      <webElementGuid>43c30f91-f0c3-49b5-8d40-fcf3dca4387e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-textarea css-1orpo68</value>
+      <webElementGuid>0f62e010-8828-4fa2-9da0-09c11213de62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jl. Pembangunan Raya No.78 Blok AJ RT10 RW06</value>
+      <webElementGuid>de746639-0472-4619-866b-76a669dfe910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/textarea[@id=&quot;field-:rg:&quot;]</value>
+      <webElementGuid>b25b57fd-2340-4cb7-b642-c92a73f7fe1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='field-:rg:']</value>
+      <webElementGuid>bdb06a62-9f49-442b-8c5d-f78ad7a397eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[11]/textarea</value>
+      <webElementGuid>1555a1da-a4e0-4453-9284-2b962e7abdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::textarea[1]</value>
+      <webElementGuid>af4040dc-f0e9-4f87-ab1b-3b8b72fbb072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::textarea[1]</value>
+      <webElementGuid>a75d3deb-5529-4b4e-ae19-bcef74fb72bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jl. Pembangunan Raya No.78 Blok AJ RT10 RW06']/parent::*</value>
+      <webElementGuid>691b5e3d-07cf-47a5-9d3c-1db1688d30a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>9faf0a3f-b689-48fd-9176-ca05948d2dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Masukkan alamat lengkap' and @id = 'field-:rg:' and (text() = 'Jl. Pembangunan Raya No.78 Blok AJ RT10 RW06' or . = 'Jl. Pembangunan Raya No.78 Blok AJ RT10 RW06')]</value>
+      <webElementGuid>33bfd3dd-083b-4cbb-aac8-359a4d66adc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

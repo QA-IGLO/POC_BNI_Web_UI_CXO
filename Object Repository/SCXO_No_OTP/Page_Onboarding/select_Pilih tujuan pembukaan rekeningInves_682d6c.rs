@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih tujuan pembukaan rekeningInves_682d6c</name>
+   <tag></tag>
+   <elementGuidId>d596ad2d-9a32-4c43-9844-ae24976357e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.chakra-select.css-1jtun3o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aa4b332d-27e4-44a2-b030-b14cc1a0be6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>52096aa5-c793-4224-96f4-adc359aadc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih tujuan pembukaan rekeningInvestasiSimpananTransaksi</value>
+      <webElementGuid>86222879-e9a6-4136-9f19-810e4fabf118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-dw31nk&quot;]/div[@class=&quot;css-1noczd8&quot;]/div[@class=&quot;css-l4pxbn&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1rr3e5n&quot;]/select[@class=&quot;chakra-select css-1jtun3o&quot;]</value>
+      <webElementGuid>2b35af12-2009-4666-8454-083240b77dba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div/div/div/select</value>
+      <webElementGuid>2bfc7253-ddd5-45d8-a82f-44bfd9ce59d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tujuan Pembukaan Rekening'])[1]/following::select[1]</value>
+      <webElementGuid>1445ee20-bc4b-442f-b2b6-45293f06aa74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum memiliki Giro'])[1]/following::select[1]</value>
+      <webElementGuid>bb62c1bf-fe0b-400e-a195-b21813e9bfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Rekening'])[1]/preceding::select[1]</value>
+      <webElementGuid>fcbb3ea7-3d8f-4b5a-ba9b-af47dc275324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giro Rupiah'])[1]/preceding::select[1]</value>
+      <webElementGuid>82ae2fcc-6861-416d-a6b1-e2f1172ba3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b5b58e25-5237-4b43-921f-f33ad2096c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Pilih tujuan pembukaan rekeningInvestasiSimpananTransaksi' or . = 'Pilih tujuan pembukaan rekeningInvestasiSimpananTransaksi')]</value>
+      <webElementGuid>1ce45a35-b033-48e1-8155-b25d077fc9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

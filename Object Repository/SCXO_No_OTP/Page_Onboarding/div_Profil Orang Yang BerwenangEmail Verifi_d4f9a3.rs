@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profil Orang Yang BerwenangEmail Verifi_d4f9a3</name>
+   <tag></tag>
+   <elementGuidId>b3ae8088-daee-42df-9566-42c61defa812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-th2f6g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#root div >> internal:has-text=&quot;Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanA&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>272dab0b-3dd8-41dd-ae4c-bf8736a23fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-th2f6g</value>
+      <webElementGuid>73acf22e-0757-427a-977a-08c9b2b46ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaUser Operational RegistrationPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan</value>
+      <webElementGuid>95549e44-1ed6-4add-af5e-fedd1c5a5148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-th2f6g&quot;]</value>
+      <webElementGuid>e01a13c6-c108-45f1-a5e1-fbc9537ca30f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div</value>
+      <webElementGuid>09fb8ca7-6156-476c-8ec6-9e5a78cae651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[4]</value>
+      <webElementGuid>200887a9-dd9c-480f-be6e-499d4e3f685c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::div[49]</value>
+      <webElementGuid>14baa3e9-8505-49ba-876a-9c97dc8f7eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[2]/preceding::div[88]</value>
+      <webElementGuid>132e69e4-74a4-45e1-88df-53221a33e8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>bcf7bec5-e990-4881-8630-5a77743b8d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaUser Operational RegistrationPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan' or . = 'Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaUser Operational RegistrationPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan')]</value>
+      <webElementGuid>7bdf122e-b876-44dd-8262-41976571c42a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

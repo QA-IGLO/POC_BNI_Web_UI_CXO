@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Persyaratan yang dibutuhkan_chakra-che_ab52dc</name>
+   <tag></tag>
+   <elementGuidId>dde22aee-7261-4eea-83df-c6d2e744c864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[4]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.chakra-checkbox__control.css-1ncbew8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8eb9af68-4873-41e9-8ba5-f813c40aca52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox__control css-1ncbew8</value>
+      <webElementGuid>6e703ad4-ced5-4a8d-ae00-a27cad2a518f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>47389226-ab98-4939-9f8f-7df271304291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-15vt0gc&quot;]/div[@class=&quot;css-o9jpe5&quot;]/div[@class=&quot;css-1p3c4vf&quot;]/div[@class=&quot;css-dw31nk&quot;]/div[@class=&quot;css-1yx9kgb&quot;]/div[@class=&quot;css-1m3p9o7&quot;]/label[@class=&quot;chakra-checkbox css-1lc114p&quot;]/span[@class=&quot;chakra-checkbox__control css-1ncbew8&quot;]</value>
+      <webElementGuid>66dd99f7-361d-46ec-a678-dcce41ef1cf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[4]/div/label/span</value>
+      <webElementGuid>ac96d8d5-a6e8-45d5-9607-bed53a2b1752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>22eb8b36-de0c-4a70-970b-e526d6984de6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

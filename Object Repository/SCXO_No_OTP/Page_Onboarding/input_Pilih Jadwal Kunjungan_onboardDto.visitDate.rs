@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih Jadwal Kunjungan_onboardDto.visitDate</name>
+   <tag></tag>
+   <elementGuidId>0d9fe2c0-e2a4-43e4-9d2f-4fa9b53af0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='onboardDto.visitDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;onboardDto.visitDate&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;pilih jadwal kunjungan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ef6f627f-b2f8-4503-84d7-71eb606a06f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d03f9a03-7d40-4e0c-bf5e-080662f7ddd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.visitDate</value>
+      <webElementGuid>be7f04a7-1ed4-4096-b92b-0bb4f04b95c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>pilih jadwal kunjungan</value>
+      <webElementGuid>6845d0ce-96f4-43e5-a62e-85a0eaab8033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] px-4 py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand pl-10 react-datepicker-ignore-onclickoutside</value>
+      <webElementGuid>d3aebb4c-9140-4f28-9c1d-93c92d9bc403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1gtf5cl&quot;]/div[@class=&quot;chakra-form-control css-zn965q&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-datepicker-wrapper w-full&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] px-4 py-2 text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand pl-10 react-datepicker-ignore-onclickoutside&quot;]</value>
+      <webElementGuid>a7e0c3c9-e088-4694-9be0-0b56ba0be927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='onboardDto.visitDate']</value>
+      <webElementGuid>ecffadf6-5559-4cc9-b471-de334a7edc09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[3]/div/div/div/input</value>
+      <webElementGuid>5fdaa1b4-1b90-447f-a51d-24c91afd1f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>8fbadc8c-b994-42bd-8c8d-ebac05f7d4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'onboardDto.visitDate' and @placeholder = 'pilih jadwal kunjungan']</value>
+      <webElementGuid>5b17078d-fb16-4453-a4a8-5da1a6703ec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

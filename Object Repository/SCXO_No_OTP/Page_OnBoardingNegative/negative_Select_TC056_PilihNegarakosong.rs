@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_Select_TC056_PilihNegarakosong</name>
+   <tag></tag>
+   <elementGuidId>d8dd97db-8480-49bb-bb87-39909eef3aa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'field-:r2b:' and @name = 'onboardDto.countryId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>82144a9b-f0c8-4a67-b33c-eea8dd210d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:r2b:</value>
+      <webElementGuid>106f61ec-a51b-4863-be49-728fbca4068d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.countryId</value>
+      <webElementGuid>bb22c1ac-5acd-4df4-96eb-62f60535df81</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

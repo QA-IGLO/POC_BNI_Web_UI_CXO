@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_051_BidangUsahaKosong</name>
+   <tag></tag>
+   <elementGuidId>3ad8a780-3c61-430e-b186-38ac1103bb41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'onboardDto.businessCode' and @id = 'onboardDto.businessCode']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[1]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>727929ac-01c4-4be6-8045-6d665ce42caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.businessCode</value>
+      <webElementGuid>19996a4c-c8a3-4212-9d56-9f007ae8ebff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.businessCode</value>
+      <webElementGuid>7a9e15e2-cd38-4251-a5ff-746c89027e60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

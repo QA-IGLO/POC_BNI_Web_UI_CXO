@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_058_KotaKosong</name>
+   <tag></tag>
+   <elementGuidId>64299614-a1e1-4e5d-8412-d4eeb05d63fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[3]/div[2][count(. | //div[(text() = 'Kota harus dipilih' or . = 'Kota harus dipilih')]) = count(//div[(text() = 'Kota harus dipilih' or . = 'Kota harus dipilih')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[3]/div[2]</value>
+      <webElementGuid>10a376a1-7e23-45ec-9f40-c9df3b51f515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38d3dbb2-b7b1-4ef0-9d5b-11a49fb947d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kota harus dipilih</value>
+      <webElementGuid>78b13b88-d985-4531-9ae0-7cfa1e6d38a5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

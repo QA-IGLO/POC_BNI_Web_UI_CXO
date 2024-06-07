@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. TC_PIC_berwenang_TC047_InputOTPInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5fd3c97-d103-409e-80f2-da92a7de2a10</testCaseGuid>
+</TestCaseEntity>

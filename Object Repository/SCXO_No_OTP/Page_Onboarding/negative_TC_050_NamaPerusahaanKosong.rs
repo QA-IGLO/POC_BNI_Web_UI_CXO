@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_050_NamaPerusahaanKosong</name>
+   <tag></tag>
+   <elementGuidId>1333e991-71ac-4683-a14d-ac62f1d3b6e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2][count(. | //div[(text() = 'Nama Perusahaan harus diisi' or . = 'Nama Perusahaan harus diisi')]) = count(//div[(text() = 'Nama Perusahaan harus diisi' or . = 'Nama Perusahaan harus diisi')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>be61056e-1c98-43b1-81a8-60d5f14350ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8767a306-8fa4-412a-845f-cddbf53daf96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Perusahaan harus diisi</value>
+      <webElementGuid>1fa0827a-e573-47bd-8ecd-99632b332808</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

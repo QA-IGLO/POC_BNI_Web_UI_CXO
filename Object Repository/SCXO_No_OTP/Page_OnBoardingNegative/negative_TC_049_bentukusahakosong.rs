@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_049_bentukusahakosong</name>
+   <tag></tag>
+   <elementGuidId>11d4444b-42ea-4aca-b36f-224606e5789c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div[1]/select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'onboardDto.compEntityTypeId' and @id = 'onboardDto.compEntityTypeId' and @class = 'chakra-select w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-swqbh5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.compEntityTypeId</value>
+      <webElementGuid>a588cd84-6dba-4545-93ba-eab8b81bce4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>17a6e4a8-d43c-4c82-8731-7129b8a265a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.compEntityTypeId</value>
+      <webElementGuid>3e1a39e9-85af-48b5-9d50-0dc80f51cd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-swqbh5</value>
+      <webElementGuid>fcde6685-4e41-40fe-90ee-fa7486537147</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

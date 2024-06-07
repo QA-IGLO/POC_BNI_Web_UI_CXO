@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3_2_1_select_Tujuan_Investasi</name>
+   <tag></tag>
+   <elementGuidId>5247e114-04e6-4119-82a8-e7ab6aa8ef65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div[2]/div[2]/div/div/div/label[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@value = 'Investasi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2bc2922d-386b-49d6-82d5-37e06f736746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Investasi</value>
+      <webElementGuid>cf19c7ea-602a-4a9b-b704-171b55a9e662</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

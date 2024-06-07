@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. TC_Verifikasi_email_with_otp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86ac5ed4-8b57-4455-8b79-89dcbf48a33f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profil Orang Yang BerwenangEmail Verifi_d1d110</name>
+   <tag></tag>
+   <elementGuidId>570be0c2-4040-42a1-8a5e-ffc9d2301936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-th2f6g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#root div >> internal:has-text=&quot;Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanA&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67ffd333-7b77-4d90-9d17-518e8e6a6de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-th2f6g</value>
+      <webElementGuid>a1306c27-d43d-4295-897e-1d91f99525f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan</value>
+      <webElementGuid>e636b337-92f3-4481-b38e-056f027aa3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-th2f6g&quot;]</value>
+      <webElementGuid>7438b28e-d398-4b36-9df8-d032a4e31840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div</value>
+      <webElementGuid>e168e58a-c0a0-4223-96c2-86180d63f29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[4]</value>
+      <webElementGuid>e9ac0cd7-dc5c-485c-9e2f-f0b6516413df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::div[59]</value>
+      <webElementGuid>7e195429-c165-43aa-909a-88d831534abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>6f24b457-95a9-4477-b9c9-a0705e6e7616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan' or . = 'Profil Orang Yang BerwenangEmail VerificationDetail PerusahaanAlamat PerusahaanAkte &amp; PerijinanUpload Dokumen PerusahaanKebutuhan PenggunaPilih Cabang PendaftaranRingkasan PengajuanPernyataan &amp; Syarat Ketentuan')]</value>
+      <webElementGuid>83f77a5c-fe46-4627-8519-5646aed3a00a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Outlook - Get OTP with IMAPS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc74b85a-75ce-47d7-b1e1-31e2306f7032</testCaseGuid>
+</TestCaseEntity>

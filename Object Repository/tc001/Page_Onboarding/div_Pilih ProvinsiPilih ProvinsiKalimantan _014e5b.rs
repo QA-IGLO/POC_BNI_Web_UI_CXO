@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih ProvinsiPilih ProvinsiKalimantan _014e5b</name>
+   <tag></tag>
+   <elementGuidId>f3e1509f-af15-4848-a40a-e9708f3fa27d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-0 > div:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>025e043c-e64a-4521-9632-7ffd7a5ffab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j7qwjs</value>
+      <webElementGuid>2b17a2eb-e076-498b-a92c-a4605b0ac3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaData Kota tidak tersedia</value>
+      <webElementGuid>ca7f44bd-1b6d-48c4-9385-5ca514af74e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]</value>
+      <webElementGuid>e20ea04d-db26-4472-89f8-37d3b39ad0bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>9b887787-3e23-4b05-ba2a-733be5862cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>b1d58922-b1c7-468a-87f4-3b0f8ff16392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>6e921b4a-2afe-4fea-9683-9ff726b7acbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaData Kota tidak tersedia' or . = 'Pilih Provinsi*Pilih ProvinsiKalimantan SelatanKalimantan TimurNusa Tenggara TimurNanggroe Aceh DarussalamRiauDKI JakartaKalimantan BaratSulawesi TengahPapuaSumatera UtaraSumatera BaratJawa TimurGorontaloBaliKalimantan TengahSumatera SelatanJawa BaratBantenNusa Tenggara BaratLampungMaluku UtaraSulawesi SelatanPapua BaratBengkuluJawa TengahDI YogyakartaJambiBangka BelitungMalukuKalimantan UtaraKepulauan RiauSulawesi BaratSulawesi UtaraSulawesi TenggaraPilih Kota*Pilih KotaData Kota tidak tersedia')]</value>
+      <webElementGuid>2b1a8ee9-63d6-4511-beba-f99d8649b074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Produk yang Anda pilihBNI Cash Manageme_ccefc4</name>
+   <tag></tag>
+   <elementGuidId>1f4dea3b-c182-44b2-be86-91a971dc57a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-11up60</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Produk yang Anda pilihBNI Cash ManagementPilih produk lainPersyaratan yang dibut&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38377900-44fd-4db0-9b8e-dc4e763f8857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-11up60</value>
+      <webElementGuid>afaab189-dd23-4bd6-9c7b-cb487d38bc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk yang Anda pilihBNI Cash ManagementPilih produk lainPersyaratan yang dibutuhkanAnda harus memiliki akun giroMemiliki dokument Akta Pendirian (PDF)Memiliki NPWP Perusahaan (PDF)Memiliki NIB (PDF)Mengisi form pendaftaran Giro &amp; BNI Cash ManagementCalon Nasabah dengan ini menyatakan telah membaca, mengerti dan memahami sepenuhnya informasi produk yang akan dibuka dan setuju serta bersedia tunduk pada:Syarat dan Ketentuan e-Form pada [new brand] by BNISelanjutnya</value>
+      <webElementGuid>f377abdb-6fa4-45a3-9534-daccd351b5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1ggcd1q&quot;]/div[@class=&quot;css-11up60&quot;]</value>
+      <webElementGuid>ee414848-cdf8-44a6-b5a5-f7bf0055983b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div</value>
+      <webElementGuid>69915678-7507-4496-abb5-94a4e0235e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[3]</value>
+      <webElementGuid>a37375fa-905a-411a-ad86-2854ff774290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>ebcd87ef-a643-47a4-b7e9-6a44fa264113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Produk yang Anda pilihBNI Cash ManagementPilih produk lainPersyaratan yang dibutuhkanAnda harus memiliki akun giroMemiliki dokument Akta Pendirian (PDF)Memiliki NPWP Perusahaan (PDF)Memiliki NIB (PDF)Mengisi form pendaftaran Giro &amp; BNI Cash ManagementCalon Nasabah dengan ini menyatakan telah membaca, mengerti dan memahami sepenuhnya informasi produk yang akan dibuka dan setuju serta bersedia tunduk pada:Syarat dan Ketentuan e-Form pada [new brand] by BNISelanjutnya' or . = 'Produk yang Anda pilihBNI Cash ManagementPilih produk lainPersyaratan yang dibutuhkanAnda harus memiliki akun giroMemiliki dokument Akta Pendirian (PDF)Memiliki NPWP Perusahaan (PDF)Memiliki NIB (PDF)Mengisi form pendaftaran Giro &amp; BNI Cash ManagementCalon Nasabah dengan ini menyatakan telah membaca, mengerti dan memahami sepenuhnya informasi produk yang akan dibuka dan setuju serta bersedia tunduk pada:Syarat dan Ketentuan e-Form pada [new brand] by BNISelanjutnya')]</value>
+      <webElementGuid>7247e0f7-ff92-4083-8ab5-cb0fbd30db9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cbfe818-09db-40eb-b245-e1f063fa5ae3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fdfc8da-10a0-4c3f-8ce0-0e50ed68eae2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fb46942-9272-4125-bd64-5b924252cd06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>730c3643-76d4-42fd-bc3a-d61d941fd99f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'indocyber.katalon@outlook.com'</defaultValue>
+      <description></description>
+      <id>4fdfc8da-10a0-4c3f-8ce0-0e50ed68eae2</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Iglo@123'</defaultValue>
+      <description></description>
+      <id>5fb46942-9272-4125-bd64-5b924252cd06</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'outlook'</defaultValue>
+      <description></description>
+      <id>730c3643-76d4-42fd-bc3a-d61d941fd99f</id>
+      <masked>false</masked>
+      <name>email_provider</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,27 @@
+{
+  "gmail": {
+    "host": "imap.gmail.com",
+    "properties": {
+      "mail.store.protocol": "imaps",
+      "mail.imaps.socketFactory.class": "javax.net.ssl.SSLSocketFactory",
+      "mail.imaps.socketFactory.fallback": "false",
+      "mail.imaps.port": "993",
+      "mail.imaps.socketFactory.port": "993"
+    },
+    "folder":"INBOX",
+    "subject":"Registrasi Giro BNI Kode OTP"
+    
+  },
+  "outlook": {
+    "host": "outlook.office365.com",
+    "properties": {
+      "mail.store.protocol": "imaps",
+      "mail.imaps.socketFactory.class": "javax.net.ssl.SSLSocketFactory",
+      "mail.imaps.socketFactory.fallback": "false",
+      "mail.imaps.port": "993",
+      "mail.imaps.socketFactory.port": "993"
+    },
+    "folder":"INBOX",
+    "subject":"Registrasi Giro BNI Kode OTP"
+  }
+}

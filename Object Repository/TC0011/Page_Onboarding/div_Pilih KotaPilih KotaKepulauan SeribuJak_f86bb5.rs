@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih KotaPilih KotaKepulauan SeribuJak_f86bb5</name>
+   <tag></tag>
+   <elementGuidId>d0048086-ffb8-40d9-9a90-b7267c6262c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJaka&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b36f3e8-f132-441d-b709-41c2f9cb4eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j7qwjs</value>
+      <webElementGuid>5dd942b4-eb95-4a07-b07f-089185e97082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara</value>
+      <webElementGuid>7d2910d7-2856-4e02-b06a-db5d5a268b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-16djiq0&quot;]/form[1]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-j7qwjs&quot;]</value>
+      <webElementGuid>db485c9f-c93f-4b97-bb18-68da4e8f2c3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[3]</value>
+      <webElementGuid>4b2dbb5d-53a2-49f1-9639-4ba03cf8c19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[4]</value>
+      <webElementGuid>da9ec865-ef15-4cf0-9bc6-6f6c7cfc5d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[3]</value>
+      <webElementGuid>2c0a1869-1370-4f61-8acd-2204e76dd63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara' or . = 'Pilih Kota*Pilih KotaKepulauan SeribuJakarta PusatJakarta BaratJakarta TimurJakarta SelatanJakarta Utara')]</value>
+      <webElementGuid>7072f884-ab18-40a7-b782-2f27d8e692d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

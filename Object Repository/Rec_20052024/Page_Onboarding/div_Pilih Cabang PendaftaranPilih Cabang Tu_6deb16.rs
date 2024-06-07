@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Cabang PendaftaranPilih Cabang Tu_6deb16</name>
+   <tag></tag>
+   <elementGuidId>bf937d95-0091-4aaa-8416-c3ba054788f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1l4w6pd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form div >> internal:has-text=&quot;Pilih Cabang PendaftaranPilih Cabang Tujuan*JELAMBAR BARU - JL. JELAMBAR BARU RA&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a43b14a-d65a-448a-afa6-8fabac8193a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1l4w6pd</value>
+      <webElementGuid>1b7b78f7-5efe-4094-8568-a15f491f3ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Cabang PendaftaranPilih Cabang Tujuan*JELAMBAR BARU - JL. JELAMBAR BARU RAYA NO.23B KEL. JELAMBAR, KEC. GROGOL PETAMBURAN, JAKARTA BARATPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya</value>
+      <webElementGuid>0e714dd3-c68f-473a-818d-f08bdb721265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]</value>
+      <webElementGuid>3c2980ac-e394-4692-b082-0467c7698f18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      <webElementGuid>2fad02b1-2601-441c-b5fa-5451fd843e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[1]</value>
+      <webElementGuid>33c6f13d-24ca-48f9-8eea-3965d1fff3ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[59]</value>
+      <webElementGuid>d0adf6e6-b0d6-4eee-a60d-1c3db9c26d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>16b90b56-0c5f-4d38-9a63-a849432d7d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*JELAMBAR BARU - JL. JELAMBAR BARU RAYA NO.23B KEL. JELAMBAR, KEC. GROGOL PETAMBURAN, JAKARTA BARATPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya' or . = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*JELAMBAR BARU - JL. JELAMBAR BARU RAYA NO.23B KEL. JELAMBAR, KEC. GROGOL PETAMBURAN, JAKARTA BARATPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya')]</value>
+      <webElementGuid>c53b909b-84bd-43b2-abb4-6df68744ffe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

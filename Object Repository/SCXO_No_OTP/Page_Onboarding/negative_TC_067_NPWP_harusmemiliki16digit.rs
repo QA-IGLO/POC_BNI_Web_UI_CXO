@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_067_NPWP_harusmemiliki16digit</name>
+   <tag></tag>
+   <elementGuidId>20d3cac3-ba23-490c-b0fc-1d63cb5ef51f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div[2][count(. | //div[(text() = 'NPWP harus memiliki 16 digit' or . = 'NPWP harus memiliki 16 digit')]) = count(//div[(text() = 'NPWP harus memiliki 16 digit' or . = 'NPWP harus memiliki 16 digit')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c93b1f6-68ec-4c22-b5d3-1e8a7832beea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NPWP harus memiliki 16 digit</value>
+      <webElementGuid>5b35873b-ca05-443f-9023-b7f38a7983e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>b40f4f36-53eb-4151-9b87-981e3f54d9fa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

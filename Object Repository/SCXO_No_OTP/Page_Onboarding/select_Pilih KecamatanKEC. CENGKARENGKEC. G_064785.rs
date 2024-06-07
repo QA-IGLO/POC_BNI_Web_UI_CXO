@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih KecamatanKEC. CENGKARENGKEC. G_064785</name>
+   <tag></tag>
+   <elementGuidId>5b298369-05a9-4e3f-93c8-86cc24253aba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='field-:rg:'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6c770abc-905f-4cba-aa0e-b0da361fdcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:rg:</value>
+      <webElementGuid>0a7bd156-1e85-494f-af20-93631ada47ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>ff431105-4139-4bb4-bf4a-53533d0bb635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih KecamatanKEC. CENGKARENGKEC. GROGOL PETAMBURANKEC. KEBON JERUKKEC. KEMBANGANKEC. PALMERAHCENGKARENGGAMBIRGROGOL PETAMBURANINACTIVEKALIDERESKEBON JERUKKEMBANGANPADEMANGANPALMERAHPENJARINGANTAMAN SARITAMBORACIPAYUNGKEMAYORANKOTA JAKARTA BARATLARANGANMAMPANG PRAPATANPANCORANSAWAH BESARSETIABUDITAMANSARIKALI DERESCENGKARENG TIMURCENGKARENG BARATTEGAL ALURDURI KOSAMBIKEDOYA SELATANKEDOYA UTARA</value>
+      <webElementGuid>36d21b1a-1971-47aa-b5ce-0838b14090cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:rg:&quot;]</value>
+      <webElementGuid>f082d619-4a7c-40ee-a5d0-93afcb6e9aaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='field-:rg:'])[4]</value>
+      <webElementGuid>d4264f0a-f005-494f-8a1b-3f63995bd9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[5]/div/select</value>
+      <webElementGuid>baf50d8d-1bfa-46e1-b5e8-bb9bf27022f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>7ca0b523-cc85-4ae6-835a-fb5de9c3f509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>16a91270-71db-4742-8486-0d652ef6d282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>87b05863-be22-4814-82f4-a3126f6b40c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:rg:' and (text() = 'Pilih KecamatanKEC. CENGKARENGKEC. GROGOL PETAMBURANKEC. KEBON JERUKKEC. KEMBANGANKEC. PALMERAHCENGKARENGGAMBIRGROGOL PETAMBURANINACTIVEKALIDERESKEBON JERUKKEMBANGANPADEMANGANPALMERAHPENJARINGANTAMAN SARITAMBORACIPAYUNGKEMAYORANKOTA JAKARTA BARATLARANGANMAMPANG PRAPATANPANCORANSAWAH BESARSETIABUDITAMANSARIKALI DERESCENGKARENG TIMURCENGKARENG BARATTEGAL ALURDURI KOSAMBIKEDOYA SELATANKEDOYA UTARA' or . = 'Pilih KecamatanKEC. CENGKARENGKEC. GROGOL PETAMBURANKEC. KEBON JERUKKEC. KEMBANGANKEC. PALMERAHCENGKARENGGAMBIRGROGOL PETAMBURANINACTIVEKALIDERESKEBON JERUKKEMBANGANPADEMANGANPALMERAHPENJARINGANTAMAN SARITAMBORACIPAYUNGKEMAYORANKOTA JAKARTA BARATLARANGANMAMPANG PRAPATANPANCORANSAWAH BESARSETIABUDITAMANSARIKALI DERESCENGKARENG TIMURCENGKARENG BARATTEGAL ALURDURI KOSAMBIKEDOYA SELATANKEDOYA UTARA')]</value>
+      <webElementGuid>8df87229-91e9-4e1e-9f12-568ee8718b7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

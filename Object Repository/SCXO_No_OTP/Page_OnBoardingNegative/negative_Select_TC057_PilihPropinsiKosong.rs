@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_Select_TC057_PilihPropinsiKosong</name>
+   <tag></tag>
+   <elementGuidId>4e2a5986-397d-4a4a-8459-96e42c8ac042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'field-:r27:' and @name = 'onboardDto.provinceId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bf845646-ad96-4dbf-b0ea-2ffdfca04f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:r27:</value>
+      <webElementGuid>67371ba8-560e-41b9-a6c1-9b42de7fbe08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.provinceId</value>
+      <webElementGuid>9c1f5aa5-4c05-4b83-835f-4cccf975e7c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

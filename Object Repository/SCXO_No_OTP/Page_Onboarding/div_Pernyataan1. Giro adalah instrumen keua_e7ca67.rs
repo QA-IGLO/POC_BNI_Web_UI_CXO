@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pernyataan1. Giro adalah instrumen keua_e7ca67</name>
+   <tag></tag>
+   <elementGuidId>604feb1a-6c6b-4179-9e3b-f17d833e06e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > div.css-suumc6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pernyataan1. Giro adalah instrumen keuangan yang memungkinkan pemegangnya untuk &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>917f8c12-15bb-44c8-9ee5-8b043fe98b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-suumc6</value>
+      <webElementGuid>b15a3615-ca32-4879-82d6-6da43ffa195a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pernyataan1. Giro adalah instrumen keuangan yang memungkinkan pemegangnya untuk melakukan transaksi pembayaran.2. Giro dapat digunakan untuk melakukan pembayaran secara elektronik atau melalui cek.3. Pemegang giro dapat menarik dana dari rekeningnya kapan saja sesuai dengan saldo yang tersedia.4. Giro dapat digunakan untuk melakukan pembayaran kepada pihak ketiga atau untuk keperluan transaksi bisnis.5. Setiap transaksi yang dilakukan menggunakan giro akan tercatat dalam buku tabungan atau laporan rekening.6. Pemegang giro bertanggung jawab untuk menjaga kerahasiaan dan keamanan instrumen giro miliknya.7. Bank yang mengeluarkan giro memiliki kewajiban untuk memproses transaksi pembayaran sesuai dengan instruksi yang diberikan oleh pemegang giro.8. Giro dapat dicairkan atau ditransfer ke rekening lain sesuai dengan kebutuhan dan instruksi dari pemegang giro.</value>
+      <webElementGuid>2b5d4bf2-bf52-4c8f-8f0c-39bc64501514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1vuxxtd&quot;]/div[5]/div[@class=&quot;css-suumc6&quot;]</value>
+      <webElementGuid>25592433-0ec8-43f9-9f1f-86e0208a7f68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[5]/div</value>
+      <webElementGuid>482149d2-335a-4818-a53e-750b7f92451a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::div[10]</value>
+      <webElementGuid>4b6624b2-dc68-45eb-b0f3-d6f07d4f5145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[13]</value>
+      <webElementGuid>b1d1f37b-0215-4982-af09-35e93fb31560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai &amp; Kirim'])[1]/preceding::div[11]</value>
+      <webElementGuid>dd62ee68-b126-4d62-b92a-b3bb962534d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::div[11]</value>
+      <webElementGuid>ef2e5c0f-83c4-4a29-9d16-3d1674ab7f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]/div</value>
+      <webElementGuid>be62b72a-bf9f-4eaf-b994-1f2ee048d013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pernyataan1. Giro adalah instrumen keuangan yang memungkinkan pemegangnya untuk melakukan transaksi pembayaran.2. Giro dapat digunakan untuk melakukan pembayaran secara elektronik atau melalui cek.3. Pemegang giro dapat menarik dana dari rekeningnya kapan saja sesuai dengan saldo yang tersedia.4. Giro dapat digunakan untuk melakukan pembayaran kepada pihak ketiga atau untuk keperluan transaksi bisnis.5. Setiap transaksi yang dilakukan menggunakan giro akan tercatat dalam buku tabungan atau laporan rekening.6. Pemegang giro bertanggung jawab untuk menjaga kerahasiaan dan keamanan instrumen giro miliknya.7. Bank yang mengeluarkan giro memiliki kewajiban untuk memproses transaksi pembayaran sesuai dengan instruksi yang diberikan oleh pemegang giro.8. Giro dapat dicairkan atau ditransfer ke rekening lain sesuai dengan kebutuhan dan instruksi dari pemegang giro.' or . = 'Pernyataan1. Giro adalah instrumen keuangan yang memungkinkan pemegangnya untuk melakukan transaksi pembayaran.2. Giro dapat digunakan untuk melakukan pembayaran secara elektronik atau melalui cek.3. Pemegang giro dapat menarik dana dari rekeningnya kapan saja sesuai dengan saldo yang tersedia.4. Giro dapat digunakan untuk melakukan pembayaran kepada pihak ketiga atau untuk keperluan transaksi bisnis.5. Setiap transaksi yang dilakukan menggunakan giro akan tercatat dalam buku tabungan atau laporan rekening.6. Pemegang giro bertanggung jawab untuk menjaga kerahasiaan dan keamanan instrumen giro miliknya.7. Bank yang mengeluarkan giro memiliki kewajiban untuk memproses transaksi pembayaran sesuai dengan instruksi yang diberikan oleh pemegang giro.8. Giro dapat dicairkan atau ditransfer ke rekening lain sesuai dengan kebutuhan dan instruksi dari pemegang giro.')]</value>
+      <webElementGuid>1ea74f92-6d47-48f6-9d86-94d9e8881ae7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

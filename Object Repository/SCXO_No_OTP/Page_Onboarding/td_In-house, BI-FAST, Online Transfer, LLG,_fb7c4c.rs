@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_In-house, BI-FAST, Online Transfer, LLG,_fb7c4c</name>
+   <tag></tag>
+   <elementGuidId>c2746929-9ddc-4030-bdbf-7c817c987b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div/div/div[2]/div/div/table/tbody/tr[4]/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(4) > td:nth-child(7)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7a1d5c7d-c9b2-4968-840a-e81e1da5c867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-fmvf06</value>
+      <webElementGuid>62a5db7a-dc8d-4615-8b5c-b2bba296b9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-11zqcuy&quot;]/div[@class=&quot;css-79kf1g&quot;]/div[@class=&quot;css-1a0dqxn&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;chakra-table__container css-zipzvv&quot;]/table[@class=&quot;chakra-table css-5605sr&quot;]/tbody[@class=&quot;css-tdnrhj&quot;]/tr[@class=&quot;css-0&quot;]/td[@class=&quot;css-fmvf06&quot;]</value>
+      <webElementGuid>4415750f-5f42-4ffa-aed2-622d56a8a567</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div/div/div[2]/div/div/table/tbody/tr[4]/td[7]</value>
+      <webElementGuid>e57fba17-5800-476e-a830-29328bf37685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-house, BI-FAST, Online Transfer, LLG, RTGS, IFT'])[1]/following::td[6]</value>
+      <webElementGuid>dbedbb30-c975-477b-927e-c649b6ff4aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single Transfer'])[1]/following::td[6]</value>
+      <webElementGuid>e5a690f1-f165-4f76-94f2-b7ca9139532c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Payment'])[1]/preceding::td[1]</value>
+      <webElementGuid>b521f85f-bd2a-4447-9983-fcb82b87b9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-house, BI-FAST, Online Transfer, LLG, RTGS, IFT'])[2]/preceding::td[1]</value>
+      <webElementGuid>c39893ba-4004-4053-b539-8ac7d725011c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[7]</value>
+      <webElementGuid>662048d1-5509-42c1-9a2a-300904882a8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

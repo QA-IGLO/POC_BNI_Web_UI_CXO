@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Cabang PendaftaranPilih Cabang Tu_36b698</name>
+   <tag></tag>
+   <elementGuidId>7c9a9404-34da-4615-b34a-dd865d80713a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1gtf5cl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pilih Cabang PendaftaranPilih Cabang Tujuan*Pilih cabang tujuanPilih Jadwal Kunj&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6022bc4d-a0ef-40ab-83d2-977a90b05ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1gtf5cl</value>
+      <webElementGuid>51d0cf46-3c1c-4e88-be36-1605368e06ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Cabang PendaftaranPilih Cabang Tujuan*Pilih cabang tujuanPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya</value>
+      <webElementGuid>79d45b34-13db-42bf-a305-5ddc059953f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1gtf5cl&quot;]</value>
+      <webElementGuid>8c17a77d-6589-4ca1-be8a-7a40b36a7f9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div</value>
+      <webElementGuid>45f90a89-c94d-4c5c-935a-c046e42267be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[2]</value>
+      <webElementGuid>8a0146a2-8761-4373-8b3a-3c5726422ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[60]</value>
+      <webElementGuid>49d4a144-5d08-4e34-ae50-6cfa2d041e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>9c0fb8b1-3825-4e09-af70-d853f921f987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*Pilih cabang tujuanPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya' or . = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*Pilih cabang tujuanPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya')]</value>
+      <webElementGuid>ce3cb92a-156c-4cb4-a2c5-056b6026d119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

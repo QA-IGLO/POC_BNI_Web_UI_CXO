@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Klik untuk upload atau drag and dropF_848054</name>
+   <tag></tag>
+   <elementGuidId>f7a45bce-97c9-40a6-a656-923963945bd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/label[12]/div/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-zcjzof > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Klik untuk upload atau drag and dropFormat PDF [max. 1Mb]&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>978eae8e-9c71-4b00-a894-c25f17ac971f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>fileInput-AktaPerubahan</value>
+      <webElementGuid>6ef68bc6-bc76-48a7-a46e-3a18a48a01d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klik untuk upload atau drag and dropFormat PDF [max. 1Mb]</value>
+      <webElementGuid>e697885f-9cb8-4055-8ae9-9e845e9a5734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-1gtf5cl&quot;]/label[12]/div[@class=&quot;css-1n9kzij&quot;]/div[@class=&quot;css-dvxtzn&quot;]/div[@class=&quot;css-zcjzof&quot;]/label[1]</value>
+      <webElementGuid>f6d1ce7d-7d4a-4d02-842b-8de11c04b5e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/label[12]/div/div/div[2]/label</value>
+      <webElementGuid>db70c52a-1d2e-4eb4-bce1-38a7ce1c84a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akta Perubahan Terakhir'])[1]/following::label[2]</value>
+      <webElementGuid>81a9eb35-6aab-4191-a3e3-5a1f080fd8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[5]</value>
+      <webElementGuid>bb5f4eb7-9cc2-472b-bb82-7e101815f60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[12]/div/div/div[2]/label</value>
+      <webElementGuid>a0c7b324-3e13-4bc8-985e-e5377a9e2e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Klik untuk upload atau drag and dropFormat PDF [max. 1Mb]' or . = 'Klik untuk upload atau drag and dropFormat PDF [max. 1Mb]')]</value>
+      <webElementGuid>bb857d56-d92a-4ff0-9d95-ce46b32c620d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

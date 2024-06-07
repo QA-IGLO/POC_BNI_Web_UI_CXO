@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tanggal PengesahanPrevious MonthMay 202_b1ce52</name>
+   <tag></tag>
+   <elementGuidId>1126a53c-e554-4369-849b-c2f3304f1989</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-form-control.css-zn965q</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tanggal Pengesahan*Previous MonthMay 2024SuMoTuWeThFrSa2829301234567891011121314&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69e4e580-b249-4616-a5b9-6163164dc1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>ac2b1a87-5286-4244-8819-9a7b3c4ddcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-form-control css-zn965q</value>
+      <webElementGuid>e3c8f69f-9264-4102-9d45-5c703a2f4739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggal Pengesahan*Previous MonthMay 2024SuMoTuWeThFrSa282930123456789101112131415161718192021222324252627282930311</value>
+      <webElementGuid>a7beee92-68b5-4c5b-bf5a-64e058ea9787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/div[@class=&quot;css-14a35dk&quot;]/div[@class=&quot;chakra-form-control css-zn965q&quot;]</value>
+      <webElementGuid>42820c8a-bc45-4e73-b29d-559a1fd96386</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>73ce0d13-a82d-49ab-b4d9-2f3640affdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Akte Pengesahan harus diisi'])[1]/following::div[1]</value>
+      <webElementGuid>954eb012-15fe-45d3-8709-5d4157cae525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]</value>
+      <webElementGuid>18aa5e76-9898-45ff-a4d6-197549b9c109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tanggal Pengesahan*Previous MonthMay 2024SuMoTuWeThFrSa282930123456789101112131415161718192021222324252627282930311' or . = 'Tanggal Pengesahan*Previous MonthMay 2024SuMoTuWeThFrSa282930123456789101112131415161718192021222324252627282930311')]</value>
+      <webElementGuid>7fd745df-6801-47cd-88e2-977756f8848b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_068_NoAktePengesahan</name>
+   <tag></tag>
+   <elementGuidId>1f56a4a0-65b7-4583-b030-dd6fd4ab98cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[4]/div[2][count(. | //div[(text() = 'Nomor Akte Pengesahan harus diisi' or . = 'Nomor Akte Pengesahan harus diisi')]) = count(//div[(text() = 'Nomor Akte Pengesahan harus diisi' or . = 'Nomor Akte Pengesahan harus diisi')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38bd8542-e93c-4d48-8896-1d8f47d95f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Akte Pengesahan harus diisi</value>
+      <webElementGuid>be96aede-849a-4c0e-ae64-c688772a6b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[4]/div[2]</value>
+      <webElementGuid>12216de5-a221-406e-9913-6855397b90d0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

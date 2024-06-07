@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_Select_TC049_Pilihbentukusahakosong</name>
+   <tag></tag>
+   <elementGuidId>4c23e8e8-83ca-4515-a68e-802da31c995b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[@name = 'onboardDto.compEntityTypeId' and @value = 'Pilih Bentuk Badan Usaha']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div[1]/select/option[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.compEntityTypeId</value>
+      <webElementGuid>88f91bee-7de0-4170-9506-f73f6472f099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ecf64398-c5d4-4d87-9c67-a3dbe9f2e1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Pilih Bentuk Badan Usaha</value>
+      <webElementGuid>935d7608-1168-4ac8-a55e-77a92caede04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

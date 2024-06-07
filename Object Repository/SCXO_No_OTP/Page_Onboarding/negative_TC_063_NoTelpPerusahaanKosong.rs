@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_063_NoTelpPerusahaanKosong</name>
+   <tag></tag>
+   <elementGuidId>9e5241d8-6b54-466c-870e-8fc7e2f84616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[6]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[6]/div[count(. | //div[(text() = 'Nomor Telepon harus diisi' or . = 'Nomor Telepon harus diisi')]) = count(//div[(text() = 'Nomor Telepon harus diisi' or . = 'Nomor Telepon harus diisi')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Telepon harus diisi</value>
+      <webElementGuid>88356cc6-3274-41d8-bf96-ce700f1bf1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c18c7b0-2a73-4407-8cc1-dcb9c86fd829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[6]/div</value>
+      <webElementGuid>ad88dd61-2ab4-4095-a7db-0c6d209aac8a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

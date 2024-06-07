@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih bentuk badan usaha_PT</name>
+   <tag></tag>
+   <elementGuidId>931d5411-5cb4-4a2f-8ee9-06613f3f4423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'field-:rd:' and (text() = 'Pilih bentuk badan usahaPTInstansi PemerintahBankKoperasiBUMNPMAYayasanBUMDKantor PerwakilanCVFAPerikatan LainnyaLainnya' or . = 'Pilih bentuk badan usahaPTInstansi PemerintahBankKoperasiBUMNPMAYayasanBUMDKantor PerwakilanCVFAPerikatan LainnyaLainnya')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[1]/div/div[1]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Nama Perusahaan*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>42077eb3-3c3f-4abe-b747-34e9066561bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:rd:</value>
+      <webElementGuid>5c246505-3864-4586-81e6-204e2ac5ed1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>d376f9d8-320b-4f7d-bbc6-dc95eb3d7fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih bentuk badan usahaPTInstansi PemerintahBankKoperasiBUMNPMAYayasanBUMDKantor PerwakilanCVFAPerikatan LainnyaLainnya</value>
+      <webElementGuid>b2f26516-02b2-4d21-a6c3-09e8c6fbfae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:rd:&quot;]</value>
+      <webElementGuid>a88a937f-6bde-4dd3-a919-d210df8a978d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='field-:rd:']</value>
+      <webElementGuid>549d00c4-c5b7-44c3-89f5-f1dc7f8d6a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>b1b061b1-f865-4285-8079-b3bd59cd44ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>091e31ae-47e3-44f4-8837-d2f3c976e726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>cd92fe5e-5bff-44c5-b325-c50663ba11d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>570ae194-bf18-43c3-b771-ce09f323d1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:rd:' and (text() = 'Pilih bentuk badan usahaPTInstansi PemerintahBankKoperasiBUMNPMAYayasanBUMDKantor PerwakilanCVFAPerikatan LainnyaLainnya' or . = 'Pilih bentuk badan usahaPTInstansi PemerintahBankKoperasiBUMNPMAYayasanBUMDKantor PerwakilanCVFAPerikatan LainnyaLainnya')]</value>
+      <webElementGuid>5eb59068-067e-4994-aa97-54e039d25eac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

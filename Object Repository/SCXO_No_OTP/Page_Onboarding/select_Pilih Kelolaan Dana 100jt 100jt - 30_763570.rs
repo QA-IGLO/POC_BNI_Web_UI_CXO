@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Kelolaan Dana 100jt 100jt - 30_763570</name>
+   <tag></tag>
+   <elementGuidId>23ad6ee3-7a50-4bdf-b717-129df882033e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'field-:rd:' and (text() = 'Pilih Kelolaan Dana≤ 100jt≤ 100jt - 300jt≤ 300jt - 2,5 M≤ 50M - 300M≤ 300M - 600M' or . = 'Pilih Kelolaan Dana≤ 100jt≤ 100jt - 300jt≤ 300jt - 2,5 M≤ 50M - 300M≤ 300M - 600M')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div[16]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6617b7f0-83eb-4bf9-997b-34ebd6b86db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>field-:rd:</value>
+      <webElementGuid>cadfe2b0-7132-44c8-813a-e4daa5f374f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>fee0f8f8-1ef0-4e81-b799-ca8fb744d95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kelolaan Dana≤ 100jt≤ 100jt - 300jt≤ 300jt - 2,5 M≤ 50M - 300M≤ 300M - 600M</value>
+      <webElementGuid>4849422d-d6df-4a12-815d-a1a736412140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:rd:&quot;]</value>
+      <webElementGuid>377fc967-79c4-49e9-9375-a1e6bc1aa2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='field-:rd:'])[3]</value>
+      <webElementGuid>75488bbb-13ec-4f02-a304-595f37791cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div[16]/div/select</value>
+      <webElementGuid>c7b39690-55b4-45ae-a6c6-0ab1c78584df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelolaan Dana Pertahun'])[1]/following::select[1]</value>
+      <webElementGuid>b546d157-d4dc-4ff3-98c4-0e107aa37908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::select[1]</value>
+      <webElementGuid>b21014ea-be0e-49b0-8f39-243568635877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Pelanggan'])[1]/preceding::select[1]</value>
+      <webElementGuid>8a36e7ee-83ce-4fd1-b62e-54db3a1ece02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Persentase Pelanggan Domestik'])[1]/preceding::select[1]</value>
+      <webElementGuid>6ffd1270-d65a-4ca9-90fc-d1b6f888dfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/select</value>
+      <webElementGuid>da02ca4b-21d3-464a-b424-b68ba0f1e399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:rd:' and (text() = 'Pilih Kelolaan Dana≤ 100jt≤ 100jt - 300jt≤ 300jt - 2,5 M≤ 50M - 300M≤ 300M - 600M' or . = 'Pilih Kelolaan Dana≤ 100jt≤ 100jt - 300jt≤ 300jt - 2,5 M≤ 50M - 300M≤ 300M - 600M')]</value>
+      <webElementGuid>7e1e0790-bff5-4b4b-9a27-7863e443d731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

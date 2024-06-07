@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_069_NIBKosong</name>
+   <tag></tag>
+   <elementGuidId>c742f97a-07fd-4f1e-88c4-f617f78f0a26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[13]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Nomor Ijin Usaha harus diisi' or . = 'Nomor Ijin Usaha harus diisi') and @name = 'onboardPermitsDto.licenseNoNib' and @placeholder = 'Masukkan nomor ijin usaha' and @type = 'number']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68b966be-10eb-478f-90a7-f45f70fdf959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Ijin Usaha harus diisi</value>
+      <webElementGuid>585c919f-9e2e-4ae8-ab16-2ff8dcbf9632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardPermitsDto.licenseNoNib</value>
+      <webElementGuid>450b39f3-95f9-41c5-8e02-74ff48d06c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan nomor ijin usaha</value>
+      <webElementGuid>2be99c16-5cd3-4de4-8974-d4691dd9aa19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>ab23bfa4-116e-4218-804d-b66ca7c402c9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

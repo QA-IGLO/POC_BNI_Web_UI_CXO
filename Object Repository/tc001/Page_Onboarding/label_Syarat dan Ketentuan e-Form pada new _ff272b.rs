@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Syarat dan Ketentuan e-Form pada new _ff272b</name>
+   <tag></tag>
+   <elementGuidId>15f94dc3-7f95-470b-80a1-ae2a14fb494e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div[6]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.chakra-checkbox.css-sj92nz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>401bcf3d-ce53-4290-93c8-151fdbfa0152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox css-sj92nz</value>
+      <webElementGuid>a9edcfc0-4506-4a46-bc2b-140d664a216b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan Ketentuan e-Form pada [new brand] by BNI</value>
+      <webElementGuid>d87691a8-6820-4669-9593-f7ab0a0f8312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1ggcd1q&quot;]/div[@class=&quot;css-11up60&quot;]/div[@class=&quot;css-128oi3q&quot;]/label[@class=&quot;chakra-checkbox css-sj92nz&quot;]</value>
+      <webElementGuid>2500b68a-262c-4aed-be92-0ba00a98d1ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[6]/label</value>
+      <webElementGuid>e3451cd2-8e16-4d05-b5a1-9319e8847636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih produk lain'])[1]/following::label[1]</value>
+      <webElementGuid>7cc9227c-29a6-4174-841d-a4af17fe1c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::label[1]</value>
+      <webElementGuid>ea1a7ea4-dbb1-4301-8136-785779dc4424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::label[1]</value>
+      <webElementGuid>6697f1b2-3661-4920-ad42-3fe9ac2ac225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>33f350b4-8da5-49b5-b6b5-532c29b42377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Syarat dan Ketentuan e-Form pada [new brand] by BNI' or . = 'Syarat dan Ketentuan e-Form pada [new brand] by BNI')]</value>
+      <webElementGuid>b0625b67-c3ba-489c-9391-55776adaf6e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

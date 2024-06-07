@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>old_7.2_div_ProvinsiPilih ProvinsiBALIBANGKA BELITU_c57055</name>
+   <tag></tag>
+   <elementGuidId>dd303876-bd59-473c-a47b-0c2629120e10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group >> div >> internal:has-text=&quot;Provinsi*Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKAR&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a533989f-0e64-4e25-9cef-338d62bd4da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j7qwjs</value>
+      <webElementGuid>4e11c8fa-ee2d-45cf-86e4-8416ad78c725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Provinsi*Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAHKota*Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT</value>
+      <webElementGuid>3892b0db-9952-445c-abc6-84fb28673e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]</value>
+      <webElementGuid>52841e4c-c341-4684-809a-cdea8bf02d84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]</value>
+      <webElementGuid>f78415af-5da1-4f6e-a828-4f3dd7e00779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>899cebfb-78b8-4098-bbf6-e8bac5a71a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>164e393f-75f3-4a97-a5eb-368914e7275b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Provinsi*Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAHKota*Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT' or . = 'Provinsi*Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAHKota*Pilih Kabupaten/KotaWIL. KOTA JAKARTA SELATANKAB. KARAWANGKAB. BEKASIKAB. KEP. SERIBUWIL. KOTA JAKARTA BARATWIL. KOTA JAKARTA PUSATWIL. KOTA JAKARTA SELATANWIL. KOTA JAKARTA TIMURWIL. KOTA JAKARTA PUSAT')]</value>
+      <webElementGuid>3b017596-7474-401a-9f6c-097a7d760131</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

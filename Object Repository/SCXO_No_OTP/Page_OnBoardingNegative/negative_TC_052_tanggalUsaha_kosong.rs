@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_052_tanggalUsaha_kosong</name>
+   <tag></tag>
+   <elementGuidId>cfc21154-91f2-46f7-88c4-df640a129f8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'text' and @name = 'onboardDto.businessEstDate' and @placeholder = 'Masukkan Tanggal Usaha Berdiri']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ce9fa222-df0b-4a47-8efc-24e86d1e05a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8225e43a-a7f5-488b-9de3-e704cfa310c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.businessEstDate</value>
+      <webElementGuid>e60e4388-7d55-46d5-a8a6-895cf66f1025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Tanggal Usaha Berdiri</value>
+      <webElementGuid>61c06fa4-ec30-414e-a0c6-786d83becda2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

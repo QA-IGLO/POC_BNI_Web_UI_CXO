@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.3_select_Pilih BidangSektor Usaha</name>
+   <tag></tag>
+   <elementGuidId>49989708-1ae3-4abb-808d-94bfb9ee0b3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[1]/select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'onboardDto.businessCode' and @value = '3700' and @name = 'onboardDto.businessCode' and @class = 'chakra-select w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-swqbh5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Bidang/Sektor Usaha*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>61ef1b93-4913-4668-8e92-62ff54ea670b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.businessCode</value>
+      <webElementGuid>b1a50d40-abfc-4eaf-b480-66bbb574b3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA</value>
+      <webElementGuid>bc49be15-a74e-40b1-89d3-7db4ca246774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>3700</value>
+      <webElementGuid>30dc4e59-fc5a-4acb-88dc-1e21a97ce299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.businessCode</value>
+      <webElementGuid>8f043332-a1b0-41fe-976a-2dc6e0078045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-swqbh5</value>
+      <webElementGuid>10f502e3-a6c2-462a-b160-af62cf634773</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='onboardDto.businessSectorId']</value>
+      <webElementGuid>1838de86-9542-4b8e-bd83-a93132e2d3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div/select</value>
+      <webElementGuid>3bdfb76c-1a5a-4109-be51-f42febf669c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tempat Usaha Berdiri'])[1]/preceding::select[1]</value>
+      <webElementGuid>02dd1709-bd91-4250-8eb6-826a4b8d5c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>a039dccc-8a01-4779-8dd7-3129c9bc2404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'onboardDto.businessSectorId' and @id = 'onboardDto.businessSectorId' and (text() = 'Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA' or . = 'Pilih Bidang/Sektor UsahaAIRBEARER CORPORATIONBELI DAN KUMPUL BRG DAGANG DNBIRO PERJALANANBROKER DAN DEALERDAGANG RESTORAN LAINNYADEALER BARANG ANTIK DAN SENIDEALER PERHIASAN/LOGAM MULIA/PERMATADISTRIBUSIGASHUKUM DAN KEBUDAYAANIND KAYU DAN HASIL2 KAYUIND MAKANAN TERNAK DAN IKANIND MAKANAN-MINUM-TEMBAKAUIND OLAH BHN KIM-MNYK BM-BBARAIND OLAH HSL TAMB BKN LGM MBBBIND PULP-KERTAS-CETAK-TERBITANIND TEKSTIL-SANDANG-KULITINDUSTRI PENGOLAHAN LAINNYAJASA DUNIA USAHA LAINNYAJASA SOSIAL MASYARAKAT LAINNYAKASINOKEHUTANAN DAN PEMOTONGAN KAYUKESEHATANKOMUNIKASIKONS PERSIAPAN TNH TRANSMIGRASIKONS PRY DIBIAYAI PINJ LNKONSTRUKSI JLN RAYA DAN JEMBATANKONSTRUKSI LAINNYAKONSTRUKSI LISTRIKLEMBAGA KEUANGAN BANKLEMBAGA KEUANGAN NON BANKLISTRIKMONEY CHANGEROFFSHORE BANKPENDIDIKANPENGANGKUTAN UMUMPERBURUANPERDAGANGAN ECERANPERDAGANGAN MELALUI INTERNETPERGUDANGANPERIKANANPERUMAHAN SEDERHANAPETERNAKANREAL ESTATE - PASAR INPRESREAL ESTATE LAINNYAREAL ESTATE PERUM SEDERHANARESTORAN DAN HOTELSARANA PERTANIANSARANA PERTANIAN LAINNYASHELL BANKTAMBANG BATU BARATAMBANG BIJI LOGAMTAMBANG LAINNYATAMBANG MINYAK GAS BUMITANAMAN PANGANTANAMAN PERKEBUNANUSAHA EKSPOR-IMPORLAIN-LAIN ALAT RUMAH TANGGALAIN-LAIN KENDARAANLAIN-LAIN PERUMAHANLAIN-LAINNYA')]</value>
+      <webElementGuid>2fbf16f6-2aa2-4dcf-81ac-a75093513b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

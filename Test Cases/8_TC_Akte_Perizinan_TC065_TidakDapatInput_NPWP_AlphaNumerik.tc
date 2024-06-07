@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8_TC_Akte_Perizinan_TC065_TidakDapatInput_NPWP_AlphaNumerik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc4ad0c-5561-44fd-8c18-94b706a50513</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_055_KelolaDanaKosong</name>
+   <tag></tag>
+   <elementGuidId>3011ccb6-a738-4ee5-879d-ada5c3407583</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[9]/div/div[2]/div[count(. | //div[(text() = 'Kelolaan Dana wajib dipilih' or . = 'Kelolaan Dana wajib dipilih')]) = count(//div[(text() = 'Kelolaan Dana wajib dipilih' or . = 'Kelolaan Dana wajib dipilih')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[9]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[9]/div/div[2]/div</value>
+      <webElementGuid>fe3ffc93-f867-4697-a04f-eb3113c035d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fac67d8f-c122-47bd-a4a6-57e6ff95274c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelolaan Dana wajib dipilih</value>
+      <webElementGuid>1706dee4-a4a6-4903-8742-5e695e0d7e25</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC057_PropinsiKosong</name>
+   <tag></tag>
+   <elementGuidId>27a4b4ca-9639-497c-9c14-90e25d40242b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[1]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[1]/div[2][count(. | //div[(text() = 'Provinsi harus dipilih' or . = 'Provinsi harus dipilih')]) = count(//div[(text() = 'Provinsi harus dipilih' or . = 'Provinsi harus dipilih')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[1]/div[2]</value>
+      <webElementGuid>fe5443b1-0b9b-4933-bd38-9ac1673b2f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>179f7256-730f-4586-a7b8-f1c897c0a890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Provinsi harus dipilih</value>
+      <webElementGuid>10ace3ff-6491-4cf9-9eb4-fdaf3c4f00ed</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

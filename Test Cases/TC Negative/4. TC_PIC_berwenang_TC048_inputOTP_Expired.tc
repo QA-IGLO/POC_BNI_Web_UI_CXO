@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. TC_PIC_berwenang_TC048_inputOTP_Expired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e05cdf3-c43f-4ca8-a73c-02db3bc1ca44</testCaseGuid>
+</TestCaseEntity>

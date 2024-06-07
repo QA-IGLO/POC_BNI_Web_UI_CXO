@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Cabang PendaftaranPilih Cabang Tu_face90</name>
+   <tag></tag>
+   <elementGuidId>5487e6ed-0dbe-445a-8d36-d52ba0df88f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1l4w6pd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form div >> internal:has-text=&quot;Pilih Cabang PendaftaranPilih Cabang Tujuan*SETRASARI - JL. PROF. DRG. SURYA SUM&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02c221fe-e5d3-4fc1-bb0b-2d8d3405ebee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1l4w6pd</value>
+      <webElementGuid>f667e107-947d-488b-a232-79e32d5cb13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Cabang PendaftaranPilih Cabang Tujuan*SETRASARI - JL. PROF. DRG. SURYA SUMANTRI NO.8B, KEL. SUKAWARNA, KEC. SUKAJADI, KOTA BANDUNGPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya</value>
+      <webElementGuid>1eeee448-37f5-448c-bf99-345fef5b52c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[1]/form[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1vg8b7f&quot;]/div[@class=&quot;css-1l4w6pd&quot;]</value>
+      <webElementGuid>523d1a64-fb0f-4e84-a569-8469da3c49df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]</value>
+      <webElementGuid>6751ad1c-bf41-4787-9834-f3ac9380d0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[1]</value>
+      <webElementGuid>401a7c63-7e0d-47da-b49c-8ee6ba813bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::div[59]</value>
+      <webElementGuid>68ca7d5d-7eab-4de4-9315-2fbf44953d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>e323ace2-9525-4ede-8883-18e18b320976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*SETRASARI - JL. PROF. DRG. SURYA SUMANTRI NO.8B, KEL. SUKAWARNA, KEC. SUKAJADI, KOTA BANDUNGPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya' or . = 'Pilih Cabang PendaftaranPilih Cabang Tujuan*SETRASARI - JL. PROF. DRG. SURYA SUMANTRI NO.8B, KEL. SUKAWARNA, KEC. SUKAJADI, KOTA BANDUNGPilih Jadwal Kunjungan*Pilih Jam Kunjungan* *Jam operasional mulai 08:00 s/d 14:00Selanjutnya')]</value>
+      <webElementGuid>5a209bb6-5951-4bae-8ce2-d0503ff55304</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

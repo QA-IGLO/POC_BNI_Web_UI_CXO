@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negative_TC_093_cabangHarusdipilih</name>
+   <tag></tag>
+   <elementGuidId>0c030789-3ffb-4666-acc5-5a908aa22579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[3][count(. | //div[(text() = 'Cabang harus dipilih' or . = 'Cabang harus dipilih')]) = count(//div[(text() = 'Cabang harus dipilih' or . = 'Cabang harus dipilih')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3058853-f763-4046-b566-3d5272ec1ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cabang harus dipilih</value>
+      <webElementGuid>0164e204-af75-4d4f-9ef8-a942a845ed8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>dca37502-ba0b-4f24-a0b3-cb9ee036065c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih ProvinsiBALIBANGKA BELITUNGBAN_08468a</name>
+   <tag></tag>
+   <elementGuidId>d835f52e-d7a7-48fc-8348-73e59b297f00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'react-select-2-input' and (text() = 'Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAH' or . = 'Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAH')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/form/div/div[2]/div[2]/div/div[2]/div/div/div/div[1]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1ef8aaca-9163-4761-ae36-79324277fb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-2-input</value>
+      <webElementGuid>9419bd4e-039b-4208-819c-6428ba052126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1jtun3o</value>
+      <webElementGuid>20bad4fe-3dfa-428e-aef9-536ca53a6c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAH</value>
+      <webElementGuid>3e37dda6-18c2-464b-9153-945b81f5c47f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1evpsxe&quot;]/div[@class=&quot;css-n6ujqp&quot;]/div[@class=&quot;css-q2icr7&quot;]/div[@class=&quot;css-11b5mf8&quot;]/div[@class=&quot;css-u6v8er&quot;]/div[@class=&quot;css-16djiq0&quot;]/div[@class=&quot;chakra-form-control css-1co3er0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-select__wrapper css-1i263w5&quot;]/select[@id=&quot;field-:rg:&quot;]</value>
+      <webElementGuid>435154fd-90f8-427b-8337-b453941cf902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='field-:rg:'])[2]</value>
+      <webElementGuid>3abe496a-f08e-4ac2-81e4-9325c8dcdf40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div[3]/div/div/select</value>
+      <webElementGuid>59608bb1-d464-4cc6-8c69-d6f35fa4697c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>7086e829-3804-4910-89c3-1c87de3424f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>91bc77c2-106b-418b-a4ec-6d10807f510a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>7e7a5532-44ab-46cd-a0bb-109c13c2a94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'field-:rg:' and (text() = 'Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAH' or . = 'Pilih ProvinsiBALIBANGKA BELITUNGBANTENBENGKULUDAERAH ISTIMEWA YOGYAKARTADKI JAKARTAGORONTALOHONGKONGJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN RIAULAMPUNGMALUKUMALUKU TENGAHMALUKU TENGGARA BARATMALUKU UTARANANGGROE ACEH DARUSSALAMNUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSINGAPURASULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARAPAPUA BARAT RAYAPAPUA SELATANPAPUA TENGAH')]</value>
+      <webElementGuid>9caf206f-9e0f-4717-aae7-3c74b3674b95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

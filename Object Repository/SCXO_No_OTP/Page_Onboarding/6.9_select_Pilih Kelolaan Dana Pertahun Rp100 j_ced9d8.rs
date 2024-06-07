@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.9_select_Pilih Kelolaan Dana Pertahun Rp100 j_ced9d8</name>
+   <tag></tag>
+   <elementGuidId>94fb2e04-6e77-40c6-a532-2cf1f61d389e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'onboardDto.annualFundMgmt' and (text() = 'Pilih Kelolaan Dana Pertahun&lt;= Rp100 jt&lt;= Rp100 jt - Rp300 jt&lt;= Rp300 jt - Rp2.5 M&lt;= Rp50 M - Rp300 M&lt;= Rp300 M - Rp600 M' or . = 'Pilih Kelolaan Dana Pertahun&lt;= Rp100 jt&lt;= Rp100 jt - Rp300 jt&lt;= Rp300 jt - Rp2.5 M&lt;= Rp50 M - Rp300 M&lt;= Rp300 M - Rp600 M')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='onboardDto.annualFundMgmt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Kelolaan Dana Pertahun*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cff7a0c6-61dc-4c61-bd0e-4f8761bf578d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>onboardDto.annualFundMgmt</value>
+      <webElementGuid>517718cd-f0b9-4094-87d9-0b58efa084ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onboardDto.annualFundMgmt</value>
+      <webElementGuid>d52f3444-dea4-43f9-8772-733878019a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eadb2d4d-06a2-45f7-9cbc-d9e3f16c68bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select w-full bg-white border border-[#D0D5DD] hover:border-[#FF6B00] text-black rounded-lg focus:outline focus:outline-4 focus:outline-outlineColorBrand css-swqbh5</value>
+      <webElementGuid>b3ea3391-e873-4687-a2e7-9e85f457a21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kelolaan Dana Pertahun&lt;= Rp100 jt&lt;= Rp100 jt - Rp300 jt&lt;= Rp300 jt - Rp2.5 M&lt;= Rp50 M - Rp300 M&lt;= Rp300 M - Rp600 M</value>
+      <webElementGuid>212ab66c-163f-4c2b-8c55-5889787317e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='onboardDto.annualFundMgmt']</value>
+      <webElementGuid>d0f53dcb-34f0-4152-8cff-aef8ed57a780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[9]/div/div/select</value>
+      <webElementGuid>cf752fc1-87af-44a0-b996-c9477716e404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::select[1]</value>
+      <webElementGuid>9eb23660-5fc5-4105-8391-dfa69efef03f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Pelanggan'])[1]/preceding::select[1]</value>
+      <webElementGuid>8566dc60-d77a-4dcc-9ef2-43e8f3d776ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/select</value>
+      <webElementGuid>47e00e53-90a1-46c5-a9c2-d41724c1c5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'onboardDto.annualFundMgmt' and @id = 'onboardDto.annualFundMgmt' and (text() = 'Pilih Kelolaan Dana Pertahun&lt;= Rp100 jt&lt;= Rp100 jt - Rp300 jt&lt;= Rp300 jt - Rp2.5 M&lt;= Rp50 M - Rp300 M&lt;= Rp300 M - Rp600 M' or . = 'Pilih Kelolaan Dana Pertahun&lt;= Rp100 jt&lt;= Rp100 jt - Rp300 jt&lt;= Rp300 jt - Rp2.5 M&lt;= Rp50 M - Rp300 M&lt;= Rp300 M - Rp600 M')]</value>
+      <webElementGuid>697587e4-0d96-4802-9817-6f56256f8c50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
